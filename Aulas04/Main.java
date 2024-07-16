@@ -1,3 +1,5 @@
+package Aulas04;
+
 import java.util.Scanner;
 
 public class Main {
@@ -7,7 +9,7 @@ public class Main {
   public static void main(String[] args) {
     sc = new Scanner(System.in);
     double opcao = 1, numero1, numero2, resultado = 0;
-    Calculadora calculadora = new Calculadora();
+    CalculadoraA calculadora = new CalculadoraA();
 
     // while(opcao != 0){
     // opcao = exibeMenu();

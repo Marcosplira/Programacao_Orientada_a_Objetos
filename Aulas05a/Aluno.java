@@ -1,3 +1,5 @@
+package Aulas05a;
+
 class Aluno {
   String nome;
   int idade;

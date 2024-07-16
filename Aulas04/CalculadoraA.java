@@ -1,4 +1,6 @@
-class Calculadora{
+package Aulas04;
+
+class CalculadoraA{
   double somar(double num1, double num2){
     return num1 + num2; 
   }
