@@ -1,7 +1,7 @@
-package Aulas17;
+package Aulas16;
 
 public class Televisao {
-    private int volume;
+  private int volume;
   private int canal;
   private int volumeMaximo = 100;
   private int totalDeCanais = 30;
